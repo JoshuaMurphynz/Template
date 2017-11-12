@@ -1,2 +1,2 @@
 # Template
-How I lay out my BASH scripts
+Example template for BASH scripts 
